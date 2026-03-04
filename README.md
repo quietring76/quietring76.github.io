@@ -1,13 +1,18 @@
 # quietring76.github.io
 
-# 生物信息学：解码生命的语言 🧬
+# 生物信息学
 
+## Lecture 1
 
-## 📝 第一堂课：大数据驱动的科学
-
-### 1. 核心概念辨析：模型 (Model) vs. 算法 (Algorithm)
-
-在第一节课中，我们明确了生物信息学的四个步骤：**问题 -> 信息 -> 分析 -> 建模**。其中，“建模”阶段最容易混淆模型与算法的区别：
+### 1. 4 steps of Bioinformatics
+* **Question**：
+* **Information**:
+   * Images - 
+   * Sequences - DNA/RNA Sequence
+* **Analysis**:
+   * Interpreting data - cleaning data and feature extraction
+* **Modeling**:
+### 2. 模型 (Model) 与 算法 (Algorithm) 的区别
 
 * **模型 (Model)**：
     * **定义**：是对现实生物学问题的数学抽象或逻辑表达。
@@ -28,9 +33,7 @@
 
 ---
 
-## 📅 本学期生物信息学学习计划
+## 本学期生物信息学学习计划
 
 ---
 
-### 💡 课后思考
-* **HGP 历史思考**：为何私有公司能赶上耗资巨大的“人类基因组计划”？这反映了技术爆发的力量。
