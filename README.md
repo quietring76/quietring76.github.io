@@ -1,17 +1,21 @@
-# quietring76.github.io
-
 # 生物信息学
+quietring76.github.io
 
 ## Lecture 1
 
 ### 1. 4 steps of Bioinformatics
 * **Question**：
+  * 提出假说或研究目标
+  * Hypothesis-driven -> Big Data-driven -> AI-driven
 * **Information**:
-   * Images - 
+   * Images - cell, microscopic, medical images, etc.
    * Sequences - DNA/RNA Sequence
 * **Analysis**:
    * Interpreting data - cleaning data and feature extraction
 * **Modeling**:
+  * 利用数学和计算手段对提取的特征进行描述和规律总结。
+  * 包括概率模型（Probabilistic Model）与计算算法（Computational Algorithm）。
+
 ### 2. 模型 (Model) 与 算法 (Algorithm) 的区别
 
 * **模型 (Model)**：
@@ -21,7 +25,7 @@
 * **算法 (Algorithm)**：
     * **定义**：是解决特定计算问题的具体步骤或指令集。
     * **本质**：它是一种“工具”或“方法”，用于训练模型或处理数据。
-    * **例子**：**排序算法 (Number Sorting)** 或生物信息学中最经典的 **动态规划算法 (Dynamic Programming)**。
+    * e.g. Linear Regression, k-means，
 
 **总结**：模型是我们要构建的数学“房子”，而算法是建造房子的“施工手册” 。
 
