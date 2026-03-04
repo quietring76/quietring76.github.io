@@ -29,6 +29,8 @@ quietring76.github.io
 
 ---
 ## 本学期生物信息学学习计划
-
+Week 1 - 5: 熟悉并掌握Linux操作
+Week 6 - 12: 学习及熟悉R，并尝试使用
+Week 13 - 16：将Python和R应用于机器学习和AI
 ---
 
